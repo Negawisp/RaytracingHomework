@@ -1,4 +1,4 @@
-<h2>Рейтрейсинг на CPU по книжкам "Ray tracing: in one weekend" и "Ray tracing: the next week".
+<h3>Рейтрейсинг на CPU по книжкам "Ray tracing: in one weekend" и "Ray tracing: the next week".</h3>
 
 <br> Приложение рендерит 1 из 3 сцен на выбор по алгоритму Whitted'а.
 <br> Сцены заданы набором инстансов мешей и простой геометрии.
